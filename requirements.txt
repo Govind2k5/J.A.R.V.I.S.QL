@@ -1,0 +1,7 @@
+streamlit==1.41.1
+pandas
+mysql-connector-python
+python-dotenv
+groq
+mdpdf
+pymupdf
